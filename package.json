@@ -1,0 +1,22 @@
+{
+  "name": "short-edge",
+  "version": "0.0.0",
+  "description": "heuristic equation that favors the choice of short edges in the ant colony system",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bredele/short-edge.git"
+  },
+  "keywords": [
+    "acs"
+  ],
+  "author": "Olivier Wietrich <olivier.wietrich@gmail.com> (http://github.com/bredele)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/short-edge/issues"
+  },
+  "homepage": "https://github.com/bredele/short-edge"
+}
